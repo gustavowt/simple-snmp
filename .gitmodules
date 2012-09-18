@@ -1,0 +1,3 @@
+[submodule "cookbooks/snmp"]
+	path = cookbooks/snmp
+	url = git@github.com:gustavowt/cookbook-snmp.git
