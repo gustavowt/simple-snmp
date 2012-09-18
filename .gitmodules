@@ -1,3 +1,0 @@
-[submodule "cookbooks/snmp"]
-	path = cookbooks/snmp
-	url = https://github.com/atomic-penguin/cookbook-snmp.git
